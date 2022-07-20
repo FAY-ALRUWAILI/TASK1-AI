@@ -1,6 +1,6 @@
 # TASK1-AI
-# This is the Artificial Intelligence Path Task at Smart Methods company .This task explained how to install ROS  on Ubuntu .
-# STEPS
+#This is the Artificial Intelligence Path Task at Smart Methods company .This task explained how to install ROS  on Ubuntu .
+ #STEPS
 Install VMware.
 Download Ubunto.
 Create your new VM.
